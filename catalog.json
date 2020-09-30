@@ -1,0 +1,11 @@
+{
+  "title": "DocumentHub Documentation catalog",
+  "owners": { "f": ["all"] },
+  "editors": {},
+  "viewers": { "public": ["all"] },
+  "previewers": {},
+  "copyright": {
+    "license": "MIT"
+  },
+  "catalogInfo": {}
+}
