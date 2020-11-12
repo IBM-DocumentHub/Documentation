@@ -2,7 +2,7 @@
   "title": "DocumentHub Documentation catalog",
   "owners": { "f": ["all"] },
   "editors": {},
-  "viewers": { "public": ["all"] },
+  "viewers": { "public": ["all"], "all": ["all"] },
   "previewers": {},
   "copyright": {
     "license": "MIT"
