@@ -3,7 +3,7 @@
 IBM DocumentHub is a lightweight, modern CMS, created with the latest architecture and technologies and is compatible with the latest frameworks. IBM DocumentHub can handle content from GitHub and by API.
 
 
-## IBM DocumentHub: [developer.ibm.com/edge/documenthub](https://developer.ibm.com/edge/documenthub)
+Home page: [developer.ibm.com/edge/documenthub](https://developer.ibm.com/edge/documenthub)
 
 # Why IBM DocumentHub?
 
