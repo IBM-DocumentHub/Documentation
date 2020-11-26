@@ -9,7 +9,7 @@ IBM DocumentHub is a lightweight, modern CMS, created with the latest architectu
 
 **For better websites in a shorter time and at lower costs.**
 
-![features](documentation en/_attachments/features1.png "features")
+![features](https://github.com/IBM-DocumentHub/Documentation/blob/master/documentation%20en/_attachments/features1.png "features")
 
 All these features are needed in any application but due to the high level of complexity, developers only improvise them or even omit some of them.
 
