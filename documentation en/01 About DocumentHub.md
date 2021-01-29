@@ -13,3 +13,7 @@ DocumentHub is also a content sharing platform for authors to license their cont
 - the fastest content search, filter and delivery
 - compatible with any web or mobile framework
 - lightweight, modern architecture
+
+
+
+![Architecture](_attachments/architecture2.png)
