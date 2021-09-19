@@ -35,14 +35,10 @@ Why a DocumentHub Git catalog instead of a NoSQL database:
 - JSON files are managed in GitHub which is more friendly than a database UI
 - easy to create a content team with different roles in GitHub UI
 - GitHub UI can be used instead of an admin module in your application
-- the content is safe with a very good changes tracking
-- changes history, change differences and it’s easy to revert mistakes
+- the content is safe with a full tracking of changes
+- changes history, change differences, easy to revert mistakes
 - full text search and filtering by any JSON field
 - Cloud Object Storage and Akamai CDN for static files
 - Access Control Lists
-- 1000+ read req/s
+- 10,000 requests/second
 
-Why a DocumentHub database catalog instead of a NoSQL database:
-- 10000+ read/write req/s
-- full text search and filtering by any JSON field
-- Access Control Lists
