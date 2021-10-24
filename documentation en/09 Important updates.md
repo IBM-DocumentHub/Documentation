@@ -5,6 +5,7 @@
 
 ### Version 8.0.2
 
+- You can now display filters with counters (using returnFilterCounters), like the bestbuy.com website: https://www.bestbuy.com/site/all-laptops/pc-laptops/pcmcat247400050000.c?id=pcmcat247400050000
 - Search option returnFilterCounters has been added which replicates the filters behaviour on Amazon and BestBuy websites and more than that it also adds the live counters expected by the users. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
 - Search option returnFilterValues has been added which will return the filter values found in results, without the count. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
 - Search filter object can contain arrays of conditions, in order to be able to provide multiple conditions on the same field. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
@@ -12,6 +13,7 @@
 
 ### Version 7.1.1
 
+- You can now display filters with counters (using returnFilterCounters), like the bestbuy.com website: https://www.bestbuy.com/site/all-laptops/pc-laptops/pcmcat247400050000.c?id=pcmcat247400050000
 - Search option returnFilterCounters has been added which replicates the filters behaviour on Amazon and BestBuy websites and more than that it also adds the live counters expected by the users. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
 - Search option returnFilterValues has been added which will return the filter values found in results, without the count. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
 - Search filter object can contain arrays of conditions, in order to be able to provide multiple conditions on the same field. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
