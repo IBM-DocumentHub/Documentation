@@ -5,15 +5,17 @@
 
 ### Version 8.0.2
 
-- Search option returnFilterCounters has been added which replicates the filters behaviour on Amazon website and more than that it also adds the live counters expected by the users. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
+- Search option returnFilterCounters has been added which replicates the filters behaviour on Amazon and BestBuy websites and more than that it also adds the live counters expected by the users. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
+- Search option returnFilterValues has been added which will return the filter values found in results, without the count. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
 - Search filter object can contain arrays of conditions, in order to be able to provide multiple conditions on the same field. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
-- Filters defined in the catalog.json can have labels. Filter labels will be ignored during the search process. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
+- Filters defined in the catalog.json can have labels. Filter labels will be ignored during the search process. They can be used to improve the display of the fitlters. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
 
 ### Version 7.1.1
 
-- Search option returnFilterCounters has been added which replicates the filters behaviour on Amazon website and more than that it also adds the live counters expected by the users. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
+- Search option returnFilterCounters has been added which replicates the filters behaviour on Amazon and BestBuy websites and more than that it also adds the live counters expected by the users. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
+- Search option returnFilterValues has been added which will return the filter values found in results, without the count. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
 - Search filter object can contain arrays of conditions, in order to be able to provide multiple conditions on the same field. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
-- Filters defined in the catalog.json can have labels. Filter labels will be ignored during the search process. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
+- Filters defined in the catalog.json can have labels. Filter labels will be ignored during the search process. They can be used to improve the display of the fitlters. See doc: https://developer.ibm.com/edge/documenthub/documentation#searchapi
 
 ### Version 7.1.0
 
