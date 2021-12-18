@@ -1,9 +1,9 @@
-# Security
+# Security and Access Control
 
 DocumentHub offers 3 levels of access control:
-- **Library access control**
-- **Catalog access control**
-- **Document access control**
+- **Library level access control**
+- **Catalog level access control**
+- **Document level access control**
 
 There are 2 type of authorization:
 - **Basic authorization** when you access DocumentHub content from your backend application and you send the library ID and secret
