@@ -10,9 +10,10 @@ DocumentHub offers 3 levels of access control:
 
 ## Authorization
 
-There are 2 types of authorization:
-- **Basic authorization** when you access DocumentHub content from your backend application and you send the library ID and secret
-- **Bearer authorization** when you access DocuemntHub content directly from your frontend application and in this case you send the bearer token (JWT)
+Authorization is done at the library level. There are 2 types of authorization:
+- **Basic authorization** when DocumentHub content is accessed from the backend application and the authorization is done based on the library ID and secret
+- **Bearer authorization** when DocumentHub content is accessed directly from the frontend application and in this case the authorization is done based on the bearer token (JWT)
+
 
 ## SSO
 
