@@ -1,6 +1,6 @@
 {
   "title": "DocumentHub Documentation catalog",
-  "owners": { "f": ["all"] },
+  "owners": { "f": ["florin.dumitrescu@ro.ibm.com"] },
   "editors": {},
   "viewers": { "stock": ["all"], "all": ["all"] },
   "previewers": {},
