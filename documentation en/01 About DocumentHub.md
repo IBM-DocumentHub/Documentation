@@ -1,6 +1,6 @@
 # About DocumentHub
 
-**DocumentHub is a lightweight, modern content management system, which stores the content in GitHub.**
+**DocumentHub is a lightweight content management system, which stores the content in GitHub**, in a human friendly format, which can be easily managed from GitHub UI or any other editor.
 
 DocumentHub is also a content sharing platform for authors to license their content to businesses and individuals for use in a wide variety of projects.
 
