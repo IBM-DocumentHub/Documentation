@@ -1,11 +1,12 @@
 # IBM DocumentHub
 
-IBM DocumentHub is a lightweight, modern CMS, created with the latest architecture and technologies and is compatible with the latest frameworks. IBM DocumentHub can handle content from GitHub and by API.
+
+**DocumentHub is a lightweight content management system, which stores the content in GitHub**, in a human friendly format, which can be easily managed from GitHub UI or any other editor.
 
 
 Home page: [developer.ibm.com/edge/documenthub](https://developer.ibm.com/edge/documenthub)
 
-# Why IBM DocumentHub?
+## Why IBM DocumentHub?
 
 **For better websites in a shorter time and at lower costs.**
 
@@ -13,9 +14,13 @@ Home page: [developer.ibm.com/edge/documenthub](https://developer.ibm.com/edge/d
 
 All these features are needed in any application but due to the high level of complexity, developers only improvise them or even omit some of them.
 
-- The fastest content delivery – 10,000 req/s
-- The fastest search – 4x faster than IBM Enterprise Search
-- Faster development – up to 80% of the application is already done
-- Better applications: performance, security, stability
-- Clear separation of content and code
-- Reduce hardware costs by using DocumentHub “as a service”
+
+## Build applications faster using DocumentHub CMS
+
+- improve performance, security and stability
+- reduce development time, costs and risks
+- the fastest content search, filter and delivery
+- compatible with any web or mobile framework
+- lightweight, modern architecture
+- changes tracking, history and disaster recovery
+- Cloud Object Storage, Akamai CDN
