@@ -19,5 +19,9 @@ Authorization is done at the library level. There are 2 types of authorization:
 
 **DocumentHub SSO component** can be used for a quick integration with IBM SSO or you can use your own login mechanism.
 
-**DocumentHub JavaScript package** can handle the complete SSO, token and cookie process automatically with just one line of code: ```documenthub.ensureIBMidLogin('demo')```
+**DocumentHub JavaScript package** can handle the complete SSO, token and cookie process automatically with just one line of code: 
+
+```
+documenthub.ensureIBMidLogin('demo')
+```
 
