@@ -29,6 +29,9 @@
 
 ## JavaScript package
 
+### documenthub8 npm package
+- documenthub8 npm package is now available and mandatory to be used for v8 catalogs
+
 ### Version 0.0.65
 - search function will run an advanced search with a GET request which will execute a bit faster than the advancedSearch function which runs on POST method
 - deleteCatalog function has been added
