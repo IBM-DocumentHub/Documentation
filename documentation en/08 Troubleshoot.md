@@ -6,6 +6,7 @@
 
 **Solutions:**
   - Check if the hook is added to repository: in the repository go to Settings menu then to Hooks tab and see if this hook is added: https://developer.ibm.com/edge/documenthub/api/catalogs/sync
+  - Add an email field in the catalog.json to receive email notifications when the catalog sync has errors or warnings: ```"email": "john@ibm.com"```
   - Check when the hook was last started and if it returned any error in the response: click on the hook and scroll down to Recent Deliveries. Click on the first entry from the top and inside it on the Response tab. Check if there is any error returned in the body.
   - Load the catalog by API and check if the field updateError is returned in the catalog JSON
 
