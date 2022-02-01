@@ -1,11 +1,13 @@
 {
   "title": "DocumentHub Documentation catalog",
   "owners": { "f": ["florin.dumitrescu@ro.ibm.com"] },
+  "creators": {},
   "editors": {},
   "viewers": { "stock": ["all"], "all": ["all"] },
   "previewers": {},
   "copyright": {
     "license": "MIT"
   },
-  "catalogInfo": {}
+  "info": {},
+  "version: 8
 }
