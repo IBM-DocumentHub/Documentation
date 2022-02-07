@@ -4,6 +4,8 @@
 
 DocumentHub is a CMS **tuned for application development**, to help **develop better applications in a shorter time and at lower costs**.
 
+To speed up the software development, DocumentHub provides the most common application functionalities which must be implemented in every software application. Instead of re-writing the same functionalities in each new application, they can be quickly reused from DocumentHub.
+
 DocumentHub is also a content sharing platform for authors to license their content to businesses and individuals for use in a wide variety of projects.
 
 
