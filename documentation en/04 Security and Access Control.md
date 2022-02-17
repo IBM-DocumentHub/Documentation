@@ -1,5 +1,13 @@
 # Security and Access Control
 
+Security and access control can take a lot of time for a project:
+- develop all the access control code needed in all pages and API endpoints
+- test all the possible scenarios
+- run external PEN test to confirm there are no backdoors 
+
+DocumentHub offers a simple way to define the security rules and it's already tested by other apps and it's confirmed to be secure and robust.
+
+
 ## Access control levels
 
 DocumentHub offers 3 levels of access control:
