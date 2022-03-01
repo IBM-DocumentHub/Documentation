@@ -19,3 +19,18 @@ If the image is accessible on developer.ibm.com/caas-storage but is not accessib
 CDN tries to optimize the images before caching them into multiple locations around the globe and if an image has errors then the optimization process will fail.
 
 **Solution:** Fix the image errors and reupload the image to github. Ask support team to flush the CDN cache.
+
+### Image not accessible after switching catalog from version 7 to version 8
+
+Version 8 uses the catalog id in the attachments path instead of the repository and branch. For security reasons we avoid to expose the repository location.
+
+Version 7 attachments path:
+- catalog attachments: https://developer.ibm.com/caas-storage/{gitorg}/{gitrepo}/{gitbranch}/{attachmentsfolder}/{filename}
+- document attachments: https://developer.ibm.com/caas-storage/{gitorg}/{gitrepo}/{gitbranch}/{documentid}/{lang}/{attachmentsfolder}/{filename}
+
+Version 8 attachments path:
+- catalog attachments: https://developer.ibm.com/caas-storage/{catalogId}/{attachmentsfolder}/{filename}
+- document attachments: https://developer.ibm.com/caas-storage/{catalogId}/{documentid}/{lang}/{attachmentsfolder}/{filename}
+
+
+
