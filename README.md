@@ -3,16 +3,7 @@
 
 **DocumentHub is a lightweight content management system, which stores the content in GitHub**, in a human friendly format, which can be easily managed from GitHub UI or any other editor.
 
-
 Home page: [developer.ibm.com/edge/documenthub](https://developer.ibm.com/edge/documenthub)
-
-## Why IBM DocumentHub?
-
-**For better websites in a shorter time and at lower costs.**
-
-![features](https://github.com/IBM-DocumentHub/Documentation/blob/master/documentation%20en/_attachments/features1.png "features")
-
-All these features are needed in any application but due to the high level of complexity, developers only improvise them or even omit some of them.
 
 
 ## Build applications faster using DocumentHub CMS
@@ -25,5 +16,11 @@ All these features are needed in any application but due to the high level of co
 - changes tracking, history and disaster recovery
 - Cloud Object Storage, Akamai CDN
 
+### [About DocumentHub](https://github.com/IBM-DocumentHub/Documentation/blob/master/documentation%20en/01%20About%20DocumentHub.md)
 
-<sub><sup>Documentation catalog ID is IcCVI6RO</sup></sub>
+### [Why DocumentHub?](https://github.com/IBM-DocumentHub/Documentation/blob/master/documentation%20en/01.10%20Why%20DocumentHub.md)
+
+### [Who uses DocumentHub?](https://github.com/IBM-DocumentHub/Documentation/blob/master/documentation%20en/01.20%20Who%20uses%20DocumentHub.md)
+
+
+<sub><sup><sub><sup>Documentation catalog ID is IcCVI6RO</sup></sub></sup></sub>
