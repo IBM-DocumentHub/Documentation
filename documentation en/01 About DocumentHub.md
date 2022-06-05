@@ -10,7 +10,7 @@ DocumentHub is also a content sharing platform for authors to license their cont
 
 
 
-### Build applications faster using DocumentHub CMS
+## Build applications faster using DocumentHub CMS
 
 - improves performance, security and stability
 - reduces development time, costs and risks
@@ -22,6 +22,6 @@ DocumentHub is also a content sharing platform for authors to license their cont
 
 
 
-### How it works
+## How it works
 
-![Architecture](_attachments/architecture2.png)
+![Architecture](_attachments/architecture5.png)
