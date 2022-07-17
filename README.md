@@ -23,4 +23,4 @@ Home page: [developer.ibm.com/edge/documenthub](https://developer.ibm.com/edge/d
 ### [Who uses DocumentHub?](https://github.com/IBM-DocumentHub/Documentation/blob/master/documentation%20en/01.20%20Who%20uses%20DocumentHub.md)
 
 
-<sub><sup><sub><sup>Documentation catalog ID is IcCVI6RO</sup></sub></sup></sub>
+<sub><sup>Documentation catalog ID is IcCVI6RO</sup></sub>
