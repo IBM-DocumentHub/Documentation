@@ -1,8 +1,9 @@
 # About DocumentHub
 
-DocumentHub is **a CMS tuned for application development**, to help **develop better applications in a shorter time and at lower costs**.
 
 **DocumentHub is a lightweight content management system, which stores the content in GitHub**, in a human friendly way. Content can be managed in GitHub or any other external editor.
+
+DocumentHub is **a developer friendly CMS**, to help **develop better applications in a shorter time and at lower costs**.
 
 To **speed up the software development**, DocumentHub provides the most common application functionalities which must be implemented in every software application. Instead of re-writing the same functionalities in each new application, they can be quickly reused from DocumentHub.
 
