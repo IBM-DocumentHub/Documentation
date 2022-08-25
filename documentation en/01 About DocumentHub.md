@@ -23,6 +23,6 @@ DocumentHub is also a content sharing platform for authors to license their cont
 
 
 
-## How it works
+## How does it work?
 
 ![Architecture](_attachments/architecture5.png)
