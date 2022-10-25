@@ -5,9 +5,6 @@
   "editors": {},
   "viewers": { "stock": ["all"], "all": ["all"] },
   "previewers": {},
-  "copyright": {
-    "license": "MIT"
-  },
   "info": {},
   "version": 8,
   "email": "florin.dumitrescu@ro.ibm.com"
