@@ -3,7 +3,7 @@
 
 **DocumentHub is a lightweight content management system, which stores documents in GitHub**, in a human friendly way, which can be easily managed from GitHub UI or any other editor.
 
-Home page: [developer.ibm.com/edge/documenthub](https://developer.ibm.com/edge/documenthub)
+Documentation: [https://developer.ibm.com/edge/documenthub](https://github.com/IBM-DocumentHub/Documentation/blob/master/IBM%20DocumentHub.pdf)
 
 
 ## Build applications faster using DocumentHub CMS
